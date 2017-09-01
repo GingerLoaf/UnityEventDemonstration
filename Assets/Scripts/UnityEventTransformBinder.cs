@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+// Provides access to non-accessible fields by the default unity event system
 public class UnityEventTransformBinder : MonoBehaviour
 {
 
